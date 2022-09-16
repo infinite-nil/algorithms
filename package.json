@@ -1,0 +1,22 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infinite-nil/algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infinite-nil/algorithms/issues"
+  },
+  "homepage": "https://github.com/infinite-nil/algorithms#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
+}
